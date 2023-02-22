@@ -3,7 +3,7 @@
 ## Classes
 
 - [X] 1. https://www.youtube.com/watch?v=XDFlV76UJuA
-- [ ] 2. https://www.youtube.com/watch?v=7ceWRavb6Ac
+- [X] 2. https://www.youtube.com/watch?v=7ceWRavb6Ac
 - [ ] 3. https://www.youtube.com/watch?v=ArqCBqN7zzc
 - [ ] 4. https://www.youtube.com/watch?v=gZA1IjCRF0c
 
@@ -13,7 +13,8 @@
 - [X] Styles e assets reutilizados
 - [X] Componente Profile + ExpBar
 - [X] Componente CompletedChallenges
-- [ ] Componente: Countdown
+- [X] Componente: Countdown
+- [ ] Hooks: Countdown
 - [ ] TBD
 - [ ] TBD
 - [ ] TBD
