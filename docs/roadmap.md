@@ -9,19 +9,14 @@
 
 ## Roadmap 
 
-- [X] Inicialização do projeto com `npx create-next-app@latest`
+- [X] Project initialization with `npx create-next-app@latest`
 - [X] Styles e assets reutilizados
-- [X] Componente Profile + ExpBar
-- [X] Componente CompletedChallenges
-- [X] Componente: Countdown
-  - [X] Finalizar Componente: Countdown
+- [X] Component Profile + ExpBar
+- [X] Component CompletedChallenges
+- [X] Component Countdown
+  - [X] Finish component: Countdown
 - [X] Hooks: Countdown
-- [X] Componente: ChallengeBox
-- [ ] TBD
-- [ ] TBD
-- [ ] TBD
-- [ ] TBD
-- [ ] TBD
+- [X] Component: ChallengeBox
 - [ ] TBD
 
 <!-- [1]: TBD -->
