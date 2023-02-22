@@ -10,7 +10,7 @@
 ## Roadmap 
 
 - [X] Inicialização do projeto com `npx create-next-app@latest`
-- [X] Estilos reutilizados
+- [X] Styles e assets reutilizados
 - [ ] Componente ExperiencerBar
 - [ ] TBD
 - [ ] TBD
