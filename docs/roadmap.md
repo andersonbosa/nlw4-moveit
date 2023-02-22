@@ -12,7 +12,7 @@
 - [X] Inicialização do projeto com `npx create-next-app@latest`
 - [X] Styles e assets reutilizados
 - [X] Componente Profile + ExpBar
-- [ ] Componente CompletedChallenges
+- [X] Componente CompletedChallenges
 - [ ] Componente: Countdown
 - [ ] TBD
 - [ ] TBD
