@@ -14,8 +14,9 @@
 - [X] Componente Profile + ExpBar
 - [X] Componente CompletedChallenges
 - [X] Componente: Countdown
-- [ ] Hooks: Countdown
-- [ ] TBD
+  - [X] Finalizar Componente: Countdown
+- [X] Hooks: Countdown
+- [X] Componente: ChallengeBox
 - [ ] TBD
 - [ ] TBD
 - [ ] TBD
