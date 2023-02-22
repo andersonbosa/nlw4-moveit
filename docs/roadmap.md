@@ -17,7 +17,10 @@
   - [X] Finish component: Countdown
 - [X] Hooks: Countdown
 - [X] Component: ChallengeBox
-- [ ] Start Context API [1][1] to components communications
+- [X] Start Context API [1][1] to components communications
+  - [X] Create ChallengesContext
+- [ ] TBD
+- [ ] TBD
 - [ ] TBD
 
 [1]: https://reactjs.org/docs/context.html
