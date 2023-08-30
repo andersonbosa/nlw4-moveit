@@ -1,34 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<section align="center">
 
-## Getting Started
+  <img src="docs/assets/banner.svg" title="Project banner" alt="Project banner" />
 
-First, run the development server:
+  <br>
+  <br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+  <!-- badges -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <p>
+    <a href="#about">About</a> •
+    <a href="#technologies">Technologies</a> •
+    <a href="#contribution">Contribution</a> •
+    <a href="#license">License</a> •
+    <a href="#demo">Demo ⭐</a>
+  </p>
+</section>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
+<h2 id="about">💬 About</h2>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Application of memories record developed at NLW 4 offered by [Rocketseat](rocketseat.com.br/)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+<h2 id="technologies"> 🛠️ Technologies</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js](#)
+- [React](#)
+- [JS Cookie](#)
+- [Framer Motion](#)
+- [Eslint](#)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+<h2 id="contribution">🤝 Contribution</h2>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p>
+  This project is for study purposes too, so please send me a message telling me what you are doing and why you are doing it, teach me what you know. All kinds of contributions are very welcome and appreciated!
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<h2 id="license"> 📝 License</h2>
+
+This project is under the MIT license.
+
+<h2 id="Demo"> ⭐ Demo</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <details open>
+        <summary><strong>Home non-logged</strong></summary>
+        <img src="./docs/assets/home.png">
+      </details>
+    </td>
+    <td>
+      <details open>
+        <summary><strong>Home logged</strong></summary>
+        <img src="./docs/assets/home-logged.png">
+      </details>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <details open>
+        <summary><strong>Challenges</strong></summary>
+        <img src="./docs/assets/challenges.png">
+      </details>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h4>  
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/nlw-spacetime?style=social">
+  | Did you like the repository? Give it a star! 😁
+</h4>
