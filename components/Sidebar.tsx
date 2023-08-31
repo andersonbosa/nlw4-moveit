@@ -4,7 +4,7 @@ import { FiAward, FiHome, FiLogOut } from 'react-icons/fi'
 
 import { motion } from 'framer-motion'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
 import { useContext } from 'react'
 import ImgLogo from './ImgLogo'
 
@@ -33,7 +33,7 @@ export function Sidebar () {
                 </header>
                 <div className={styles.iconsContainer}>
                     <div className={styles.iconHome}>
-                        {router.pathname === '/home' ? (
+                        {usePathname() === '/home' ? (
                             <>
                                 <Link href="/home">
                                     <FiHome className={styles.active} />
@@ -49,7 +49,7 @@ export function Sidebar () {
                         )}
                     </div>
                     <div className={styles.iconAward}>
-                        {router.pathname === '/challenges' ? (
+                        {usePathname() === '/challenges' ? (
                             <>
                                 <Link href="/challenges">
 

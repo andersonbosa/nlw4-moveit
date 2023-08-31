@@ -11,7 +11,7 @@ export function Profile () {
 
     return (
         <div className={styles.profileContainer}>
-            <Image priority src={user?.image} alt={user?.name} width={256} height={256} />
+            <Image priority src={user?.image ?? 'https://i.pravatar.cc/256'} alt={user?.name ?? 'User avatar'} width={256} height={256} />
             <div>
                 <strong>{user?.name}</strong>
                 <p style={{
