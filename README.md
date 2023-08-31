@@ -19,8 +19,7 @@
 ---
 <h2 id="about">💬 About</h2>
 
-Application of memories record developed at NLW 4 offered by [Rocketseat](rocketseat.com.br/)
-
+Application of memories record developed at NLW 4 offered by [Rocketseat](rocketseat.com.br/).
 
 <h2 id="technologies"> 🛠️ Technologies</h2>
 
@@ -43,6 +42,10 @@ Application of memories record developed at NLW 4 offered by [Rocketseat](rocket
 This project is under the MIT license.
 
 <h2 id="Demo"> ⭐ Demo</h2>
+
+You can se a live demo in here: https://nlw4-moveit-andersonbosa.vercel.app/
+
+### Prints
 
 <table align="center">
   <tr>
