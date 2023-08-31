@@ -19,7 +19,7 @@
 ---
 <h2 id="about">💬 About</h2>
 
-Application of memories record developed at NLW 4 offered by [Rocketseat](rocketseat.com.br/).
+Application of memories record developed at NLW 4 offered by [Rocketseat](https://rocketseat.com.br/).
 
 <h2 id="technologies"> 🛠️ Technologies</h2>
 
